@@ -6,7 +6,7 @@
    <div>
 <a href="https://github.com/brenaraiara">
 <img height="170em" src="https://github-redme-stats.vercel.app/api?username=brenaraiara&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img height="171em" src="https://github-redme-stats.vercel.app/api/top-langs/?username=brenaraiara&layout=compact&langs_count=16&theme=synthwave"/>
+<img height="165em" src="https://github-redme-stats.vercel.app/api/top-langs/?username=brenaraiara&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 
 <div style="display: inline_block"><br>
