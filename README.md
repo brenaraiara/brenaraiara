@@ -3,10 +3,12 @@
 - ☕ Estou aprendendo Java
 - 🌈 Pronomes: Ela/dela
 - 🐱‍👤 Sobre mim: Engenheira, otaku e gamer nas horas vagas
-   <div>
-<a href="https://github.com/brenaraiara">
-<img height="160em" src="https://github-redme-stats.vercel.app/api?username=brenaraiara&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-</div>
 
-<div style="display: inline_block"><br>
-<img align="center"alt="Brena-Java"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  ![Brena GitHub stats](https://github-readme-stats.vercel.app/api?username=brenaraiara&show_icons=true&theme=radical)
+
+  ## Tecnologias que eu uso no meu dia
+  <div style="display: inli8ne_block"><br/>
+     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  </div><br/>
+
+  Uma Engenheira Mecânica se apaixonando por Programação.
