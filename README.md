@@ -9,8 +9,8 @@
 
   ## Tecnologias que estou aprendendo
   </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="java" width="90" height="30"/>
-  </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/>
- 
-  
+  </a> <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" alt="spring" width="92" height="29"/>
+  </a> <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="spring" width="70" height="29"/>
+  </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="java" width="99" height="30"/>
+   
   Uma Engenheira Mecânica se apaixonando por Programação.
