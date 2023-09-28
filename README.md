@@ -1,6 +1,6 @@
 ### Olá! Eu sou Brena Raiara
 
-- ☕ Estou aprendendo Java
+- ☕ Estudante de Java
 - 🌈 Pronomes: Ela/dela
 - 🐱‍👤 Sobre mim: Engenheira, Otaku e Gamer nas horas vagas
   
