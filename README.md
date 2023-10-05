@@ -2,7 +2,7 @@
 
  <div align="center"> 
 
-## Hello!! I'm Brena Raiara
+## _Hello!! I'm Brena Raiara_
 ⚙  Mechanical Engineer
 ☕ Java Student 
 🌈 Pronouns: She/her
@@ -18,14 +18,17 @@
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brenaraiara&bg_color=0d1117&color=20B2AA&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  ## 📚I am studying right now:
+   <div align="center"> 
+ 
+  ## _📚I am studying right now:_
+   </div>
   
   <div align="center"> 
   </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </a> <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" alt="spring" width="92" height="29"/>
-  </a> <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="spring" width="70" height="29"/>
   </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="java" width="99" height="30"/>
-   </div>
+  </a> <a href="https://home.aveek.io/" target="_blank"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="java" width="130" height="29"/> 
+  </div>
 
 
 
