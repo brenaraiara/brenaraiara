@@ -4,11 +4,10 @@
 
 ## _Hello!! I'm Brena Raiara_
 ⚙  Mechanical Engineer
-☕ Java Student 
 🌈 Pronouns: She/her
 🐱‍👤 Otaku
 🎮 Gamer in my free time
-  ### I started studying the Java language to become a software developer.
+  ### I am currently a computer science student.
   </div>
  
 <div align="center">  
