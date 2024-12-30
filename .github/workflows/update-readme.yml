@@ -1,8 +1,7 @@
 name: Update README with recent activity graph
 
 on:
-  schedule:
-    - cron: "0 0 1 * *" # Executa no início de cada mês
+   workflow_dispatch:
 
 jobs:
   update-graph:
