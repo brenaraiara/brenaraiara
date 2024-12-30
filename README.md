@@ -15,7 +15,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenaraiara&layout=compact&hide_border=true&title_color=ff91a4&text_color=20B2AA&bg_color=0d1117" />
 </div>
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brenaraiara&bg_color=0d1117&color=20B2AA&line=b13583&point=ff9494&area=true&hide_border=true&custom_time=2024-09-30_to_2024-12-30)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brenaraiara&bg_color=0d1117&color=20B2AA&line=b13583&point=ff9494&area=true&hide_border=true&custom_time=2024-10-01_to_2024-12-31)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
    <div align="center"> 
  
