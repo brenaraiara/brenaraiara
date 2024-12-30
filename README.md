@@ -1,13 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello!!%20I'm%20Brena%20Raiara&section=header&fontAlign=50&fontAlignY=50&animation=fadeIn&textBg=false&fontSize=55&descAlign=50&descAlignY=60&colors=6A0DAD,8A2BE2&fontColor=FFFFFF"/>
 
  <div align="center"> 
+    <h2> ⚙  Mechanical Engineer
+    <span style="font-size: 30px;"> 🌈 Pronouns: She/her
+    <span style="font-size: 30px;"> 🐱‍👤 Otaku
+    <span style="font-size: 30px;"> 🎮 Gamer in my free time
+  </div>
 
-## _Hello!! I'm Brena Raiara_
-⚙  Mechanical Engineer
-🌈 Pronouns: She/her
-🐱‍👤 Otaku
-🎮 Gamer in my free time
-  ### I am currently a computer science student.
+  <div align="center">
+  <h3><i>I am currently a computer science student.<i></h3>
   </div>
  
 <div align="center">  
@@ -19,14 +20,16 @@
 
 
    <div align="center"> 
- 
-  ## _📚I am studying right now:_
+     <h3><i>📚I am studying right now:<i></h3>
    </div>
   
   <div align="center"> 
-  </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="java" width="99" height="30"/>
-  </a> <a href="https://home.aveek.io/" target="_blank"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="java" width="140" height="29"/> 
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin-right: 20px;"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="java" width="99" height="30" style="margin-right: 20px;"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="32" style="margin-right: 20px;"/></a>
+  <a href="https://home.aveek.io/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="java" width="140" height="29" /></a>
   </div>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&colors=6A0DAD,8A2BE2&fontColor=FFFFFF"/>
+
+
