@@ -28,6 +28,4 @@
   </a> <a href="https://home.aveek.io/" target="_blank"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="java" width="140" height="29"/> 
   </div>
 
-
-
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer"/>
