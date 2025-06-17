@@ -4,11 +4,10 @@
     <h2> ⚙  Mechanical Engineer
     <span style="font-size: 30px;"> 🌈 Pronouns: She/her
     <span style="font-size: 30px;"> 🐱‍👤 Otaku
-    <span style="font-size: 30px;"> 🎮 Gamer in my free time
   </div>
 
   <div align="center">
-  <h3><i>I am currently a computer science student.<i></h3>
+  <h3><i>Computer Science student<i></h3>
   </div>
  
 <div align="center">  
